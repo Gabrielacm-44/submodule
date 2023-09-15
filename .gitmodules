@@ -1,0 +1,4 @@
+[submodule "Embarcados"]
+	path = Embarcados
+	url = https://github.com/Gabrielacm-44/Embarcados
+	branch = master
